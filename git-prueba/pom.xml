@@ -5,7 +5,7 @@
   <artifactId>git-prueba</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
- <description>Proyecto prueba</description>
+  <description>Proyecto prueba de ejalarcon77</description>
   <name>git-prueba</name>
   <url>http://maven.apache.org</url>
   <dependencies>
